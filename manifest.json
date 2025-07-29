@@ -1,0 +1,10 @@
+{
+  "id": "create-tag-from-selection",
+  "name": "Create tag from selection",
+  "version": "1.1.0",
+  "description": "Add selected text to frontmatter tags or create inline #tag",
+  "author": "AlZa2025",
+  "authorUrl": "",
+  "isDesktopOnly": false,
+  "minAppVersion": "1.0.0"
+}
